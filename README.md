@@ -5,7 +5,9 @@ _Sales-Insight : Brick & motor Bussiness_
 
 **Tools & Technology**: 
 **Power BI**: Designed a dashboard that visualizes key sales metrics and trends, offering actionable insights for decision-makers.
+
 **SQL**: Queries were written to extract, transform, and load sales data from various sources into the dashboard.
+
 **ETL**: Data was processed and prepared through ETL pipelines, ensuring accuracy and timeliness for reporting.
 
 1. Designed a Power BI dashboard to understand AtliQ hardware goods sales trend.
