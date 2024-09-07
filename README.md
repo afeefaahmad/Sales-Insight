@@ -10,7 +10,7 @@ Brick & motor Bussiness
 Dashboard build on PowerBi looks like this:
 
 
-![Screenshot (38)](https://github.com/user-attachments/assets/af6128b4-4ce0-4207-a2a0-5090cbb34c23)
+![nw2](https://github.com/user-attachments/assets/f7e9ec7b-b458-4f78-aeb0-1585abccbcd7)
 
 
 
