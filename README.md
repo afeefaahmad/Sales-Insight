@@ -18,7 +18,7 @@ _Sales-Insight : Brick & motor Bussiness_
 **Expected Outcome:**
 The Power BI dashboard will provide clear, actionable insights, enabling the business to increase its revenue by at least 7% in the next quarter through informed decisions on sales strategy, inventory management, and promotional activities.
 
-Dashboard build on PowerBi looks like this:
+Dashboard build on PowerBI looks like this:
 
 
 ![nw2](https://github.com/user-attachments/assets/f7e9ec7b-b458-4f78-aeb0-1585abccbcd7)
