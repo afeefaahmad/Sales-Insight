@@ -4,6 +4,7 @@ _Sales-Insight : Brick & motor Bussiness_
 **Problem Statement**: _AtliQ Hardware, a brick-and-mortar business, seeks to improve its sales performance by gaining better insights into sales trends. The current challenge is the lack of comprehensive data visualization tools that can help stakeholders understand sales patterns and make data-driven decisions aimed at boosting revenue.
 
 **Tools & Technology**: 
+
 **Power BI**: Designed a dashboard that visualizes key sales metrics and trends, offering actionable insights for decision-makers.
 
 **SQL**: Queries were written to extract, transform, and load sales data from various sources into the dashboard.
