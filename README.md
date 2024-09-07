@@ -1,5 +1,5 @@
-# Sales-Insight 
-Brick & motor Bussiness
+# Empowering Data-Driven Sales Strategy for AtliQ Hardware: A Power BI Dashboard for Revenue Growth
+_Sales-Insight : Brick & motor Bussiness_
 
 **Tools & Technology**: PowerBI, SQL, ETL
 
