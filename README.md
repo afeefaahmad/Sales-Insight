@@ -1,7 +1,7 @@
 # Empowering Data-Driven Sales Strategy for AtliQ Hardware: A Power BI Dashboard for Revenue Growth
 _Sales-Insight : Brick & motor Bussiness_
 
-**Problem Statement**: _AtliQ Hardware, a brick-and-mortar business, seeks to improve its sales performance by gaining better insights into sales trends. The current challenge is the lack of comprehensive data visualization tools that can help stakeholders understand sales patterns and make data-driven decisions aimed at boosting revenue.
+**Problem Statement**: AtliQ Hardware, a brick-and-mortar business, seeks to improve its sales performance by gaining better insights into sales trends. The current challenge is the lack of comprehensive data visualization tools that can help stakeholders understand sales patterns and make data-driven decisions aimed at boosting revenue.
 
 **Tools & Technology**: 
 
